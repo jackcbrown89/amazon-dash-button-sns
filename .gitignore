@@ -1,0 +1,7 @@
+node_modules/*
+dist/*
+jsconfig.json
+.DS_Store
+coverage/*
+.env
+.sns-config.js

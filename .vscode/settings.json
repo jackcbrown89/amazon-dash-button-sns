@@ -1,0 +1,5 @@
+{
+  "formattingToggle.activateFor": ["formatOnSave"],
+  "editor.formatOnSave": true,
+  "eslint.options": { "configFile": ".eslintrc.json" }
+}
